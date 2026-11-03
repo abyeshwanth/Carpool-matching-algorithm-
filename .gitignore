@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/carpool.db
+data/kmeans_model.pkl
+.venv/
+.streamlit/secrets.toml
